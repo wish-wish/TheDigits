@@ -1,12 +1,12 @@
 # TheDigits
-more than 81 digits writing from unicode the codechart, the code is so much repeat that not good for reading</br>
-TODO:1、add svg support.<br/>
-TODO:2、add to the project of single, which is a app of sudoku, have a big dream to export to world's country.<br/>
+more than 81 digits writing from unicode the codechart ver 13, the code is so much repeat that not good for reading</br>
 https://home.unicode.org/<br/>
+TODO:1、add svg support.<br/>
+TODO:2、add to the project of single, which is a app of sudoku, have a big dream to export to world's countries.<br/>
 <br/>
 TheSingle.apk, is a product developer with unity,  it contain some interest interactivedesign prototype. it is my personal original.<br/>
 <br/>
-for some reason, i am seeking job now,  if you intersting<br/>
+for some reason, i am seeking job now,  if you are interesting<br/>
 <br/>
 please mail me : 12092020@qq.com<br/>
 or call me: +8613860624608<br/>
