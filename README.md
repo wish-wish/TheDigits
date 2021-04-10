@@ -5,6 +5,10 @@ TODO:1、add svg support.<br/>
 TODO:2、add to the project of single, which is a app of sudoku, have a big dream to export to world's countries.<br/>
 <br/>
 TheSingle.apk, is a product developer with unity,  it contain some interest interactivedesign prototype. it is my personal original.<br/>
+some svg editor suggestion<br/>
+inkscape which is the opensource https://github.com/inkscape/inkscape<br/>
+Adobe Illustrator/CorelDRAW which is the commercial<br/>
+expected the other best editor<br/>
 <br/>
 for some reason, i am seeking job now,  if you are interesting<br/>
 <br/>
